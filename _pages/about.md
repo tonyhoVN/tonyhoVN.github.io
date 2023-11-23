@@ -1,15 +1,15 @@
 ---
-layout: about
-title: about
-permalink: /
-subtitle: <a href='#'>Robotic Engineering
+layout: About
+title: About
+permalink: /about/
+subtitle: Robotic Engineering
 
 profile:
   align: right
   image: Avatar_HoAnhTung.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>KAIST</p>
+    <p>KAIST, </p>
     <p>Daejeon, South Korea</p>
 
 news: false  # includes a list of news items
