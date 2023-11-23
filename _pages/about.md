@@ -1,8 +1,8 @@
 ---
 layout: About
 title: About
-permalink: /about/
-subtitle: Robotic Engineering
+permalink: /
+subtitle: <a href='#'>Robotic Engineering
 
 profile:
   align: right
