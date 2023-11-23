@@ -18,11 +18,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Anh Tung Ho. 
+My name is Anh Tung Ho. I will receive an B.S. degree in Mechanical Engineering at Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)) in February 2024.
 
-I will receive an B.S. degree in Mechanical Engineering at Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)) in February 2024.
-
-I am enthusiastic about developing robotic and automation system.   
+I am enthusiastic about controlling robotic and automation systems. I had experience in developing flatforms for autonomous vehicles and industrial manipulators.    
 <!-- 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
