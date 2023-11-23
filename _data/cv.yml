@@ -2,18 +2,16 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Anh Tung Ho
+    - name: Nationality
+      value: Vietnam
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.Sc. in Mechanical Engineering
+      institution: Korea Advanced Institute of Science and Technology
+      year: 03/2020 - 02/2024 (Expected) 
       description:
         - Description 1.
         - Description 2.
