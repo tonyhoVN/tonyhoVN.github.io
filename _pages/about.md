@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Robotic Engineering
+subtitle: Robotics Engineering
 
 profile:
   align: right
   image: Avatar_HoAnhTung.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p>KAIST </p>
     <p>Daejeon, South Korea</p>
