@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Anh Tung Ho. I am the senior undergraduate student at Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), where I pursue BS degree in Mechanical Engineering under the supervision of Professor Huitaek Yun (advisor of my graduation thesis) and Professor Hyun Jin Kim. 
+My name is Anh Tung Ho. I graduated from Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), where I pursue BS degree in Mechanical Engineering under the supervision of Professor Huitaek Yun (advisor of my graduation thesis) and Professor Hyun Jin Kim. 
 
 I am enthusiastic about controlling robotic and automation systems. I had experience in developing flatforms for autonomous vehicles and industrial manipulators.    
 <!-- 
