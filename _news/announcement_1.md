@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Graduated from KAIST with Cum Laude degree.
+Graduated from KAIST with BS degree (Cum Laude) in Mechanical Engineering.
