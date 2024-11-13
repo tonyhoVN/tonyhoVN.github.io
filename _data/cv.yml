@@ -9,39 +9,33 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD in Mechanical Engineering
+      institution: Stony Brook University
+      year: 9/2024 - Now
+      description:
+        - Graduate Assistant
     - title: B.Sc. in Mechanical Engineering
       institution: Korea Advanced Institute of Science and Technology
-      year: 03/2020 - 02/2024 (Expected) 
+      year: 3/2020 - 2/2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - BSc. in Mechanical Engineering 
+        - GPA 3.7/4.0 (Cum Laude)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Robotics Engineer
+      institution: LG Electronic, South Korea
+      year: 4/2024 - 8/2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Led the engineering team of Luxolis and collaborated with engineer in LG to develop an AI-empowered automated system for OLED TV screen defect inspection.
+        - Designed, setup and calibrated entire robot system (including gantry, manipulator, and vision systems). 
+        - Created digital twin model of system for simulation and monitoring.
+        - Developed image-guided motion control algorithm for gantry-manipulator  
+
+    - title: Robotics Engineer
+      institution: Luxolis AI, South Korea
+      year: 2/2024 - 8/2024
       description:
         - Description 1.
         - Description 2.

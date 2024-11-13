@@ -9,8 +9,8 @@ profile:
   image: Avatar_HoAnhTung.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>KAIST </p>
-    <p>Daejeon, South Korea</p>
+    <p>Stony Brook,</p>
+    <p>New York, USA</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
