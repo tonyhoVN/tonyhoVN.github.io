@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Portfolio
+title: Projects
 permalink: /portfolio/
 nav: true
 nav_order: 5
