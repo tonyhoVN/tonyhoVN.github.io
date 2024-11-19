@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My first research has been published in [The Korean Society of Mechanical Engineers Spring and Autumn Conference](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11757969).
+My first research has been presented in [The Korean Society of Mechanical Engineers Spring and Autumn Conference](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11757969).
