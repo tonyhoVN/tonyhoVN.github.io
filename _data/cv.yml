@@ -4,7 +4,7 @@
     - name: Full Name
       value: Anh Tung Ho
     - name: Language
-      value: English, Korean, Vietnam
+      value: English, Korean, Vietnamese
 
 - title: Education
   type: time_table
@@ -99,7 +99,7 @@
 #         - Description 1.
 #         - Description 2.
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Playing guitar, Swimming, Hiking, Karaoke.
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - <u>Hobbies:</u> Playing guitar, Swimming, Hiking, Karaoke.

@@ -22,4 +22,4 @@ I am currently a PhD student in Mechanical Engineering at [Stony Brook Universit
 
 Before enrolling in SBU, I graduated from Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), where I pursue BS degree in Mechanical Engineering (specialize in Robotics and Control System) under the supervision of [Prof. Huitaek Yun](https://scholar.google.com/citations?user=-1agGGkAAAAJ&hl=en&oi=ao) and [Prof. Hyun Jin Kim](https://scholar.google.com/citations?user=msC__OwAAAAJ&hl=en&oi=ao). 
 
-My research focuses on controlling robotics and automation systems. I had experience in developing control flatforms for autonomous vehicles and industrial manipulators.
+My research interest is ensuring safety for human-robot interaction. I had experience in developing control flatforms for autonomous vehicles and industrial manipulators.
