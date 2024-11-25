@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a PhD student in Mechanical Engineering at [Stony Brook University, USA](https://www.stonybrook.edu/) with my advisor, [Prof. William Stewart](https://scholar.google.com/citations?user=UdGrhc0AAAAJ&hl=en&oi=ao). 
+I am currently a Research Assistant in Mechanical Engineering Department at [Stony Brook University, USA](https://www.stonybrook.edu/) with my advisor, [Prof. William Stewart](https://scholar.google.com/citations?user=UdGrhc0AAAAJ&hl=en&oi=ao). 
 
 Before enrolling in SBU, I graduated from Korea Advanced Institute of Science and Technology ([KAIST](https://www.kaist.ac.kr/en/)), where I pursue BS degree in Mechanical Engineering (specialize in Robotics and Control System) under the supervision of [Prof. Huitaek Yun](https://scholar.google.com/citations?user=-1agGGkAAAAJ&hl=en&oi=ao) and [Prof. Hyun Jin Kim](https://scholar.google.com/citations?user=msC__OwAAAAJ&hl=en&oi=ao). 
 
