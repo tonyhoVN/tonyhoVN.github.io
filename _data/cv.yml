@@ -12,6 +12,9 @@
     - title: Graduate Assistant in Mechanical Engineering Department
       institution: Stony Brook University, New York, USA
       year: 09/2024 - Present
+      description:
+        - 'Research topic: Safety for Physical Human-Robot Interaction' 
+        - 'GPA: 3.7/4.0 (Cum Laude)'
 
     - title: B.Sc. in Mechanical Engineering
       institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
@@ -33,7 +36,7 @@
       institution: Luxolis AI, Gyeonggi, South Korea
       year: 02/2024 - 08/2024
       description:
-        - Involved in developing product of camera for real-time 3D scene reconstruction.
+        - Involved in developing portable camera for real-time 3D scene reconstruction.
 
     - title: Robotics Engineer Intern 
       institution: Delta X Robotics, Danang, Vietnam
@@ -49,7 +52,7 @@
       year: 09/2024 - Present
       description: 
         - 'Advisor: Prof. William Stewart'
-        - Researched enhancing safety in human-UAV interactions. 
+        - Researched enhancing safety in physical human-UAV interactions. 
 
     - title: Reasearch Assistant 
       institution: KAIST, Daejeon, South Korea
@@ -63,7 +66,7 @@
       year: 09/2022 - 12/2022
       description:  
         - 'Advisor: Prof. Doo Yong Lee'
-        - Researched advancements of teleoperated surgical robots
+        - Researched on adaptive nonlinear control for teleoperated surgical robots
 
     - title: Research Intern 
       institution: KAIST, Daejeon, South Korea
