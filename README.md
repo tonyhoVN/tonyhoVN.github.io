@@ -272,8 +272,9 @@ Assuming you have [Ruby](https://www.ruby-lang.org/en/downloads/) and [Bundler](
 $ bundle install
 # assuming pip is your Python package manager
 $ pip install jupyter
-$ bundle exec jekyll serve --lsi
+$ bundle exec jekyll serve --port 4001
 ```
+To see the template running, open your browser and go to http://localhost:4001
 
 Now, feel free to customize the theme however you like (don't forget to change the name!).
 After you are done, **commit** your final changes.

@@ -1,9 +1,13 @@
 ---
-layout: default
+layout: cv
+permalink: /cv/
 title: CV
-permalink: /CV/
-nav: false
-nav_order: 4
+nav: true
+nav_order: 2
+cv_pdf: CV_AnhTungHo.pdf
+description: 
+toc:
+  sidebar: left
 ---
 
-<embed src="/assets/pdf/CV_AnhTungHo.pdf" type="application/pdf" width="100%" height="800px" />
+<!-- <embed src="/assets/pdf/CV_AnhTungHo.pdf" type="application/pdf" width="100%" height="800px" /> -->

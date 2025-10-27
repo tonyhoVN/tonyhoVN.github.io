@@ -26,23 +26,29 @@
 - title: Industrial Experience
   type: time_table
   contents:
+    - title: Robotics Engineer Intern
+      institution: Hanoi, Vietnam
+      year: 05/2025 - 9/2025
+      description:
+        - Developed manipulation controller and integration of VLA for humanoid robot.
+
     - title: Robotics Engineer
       institution: LG Electronic, Gyeonggi, South Korea
       year: 04/2024 - 08/2024
       description:
-        - Developed an AI-empowered automated system for OLED screen defect inspection.
+        - Developed an AI-empowered manipulation system for OLED screen defect inspection.
 
     - title: Robotics Engineer
       institution: Luxolis AI, Gyeonggi, South Korea
       year: 02/2024 - 08/2024
       description:
-        - Involved in developing portable camera for real-time 3D scene reconstruction.
+        - Developed low-cost portable camera for real-time 3D scene reconstruction.
 
     - title: Robotics Engineer Intern 
       institution: Delta X Robotics, Danang, Vietnam
       year: 06/2022 - 09/2022
       description:
-        - Simulate and analyze dynamics model of high-speed parallel delta robot.
+        - Simulated and analyzed dynamics model of high-speed parallel delta robot.
 
 - title: Research Experience
   type: time_table
@@ -72,7 +78,7 @@
       institution: KAIST, Daejeon, South Korea
       year: 12/2021 - 03/2022
       description:
-        - 'Advisor: Prof. Ik Jin Lee '
+        - 'Advisor: Prof. Ik Jin Lee'
         - Researched optimize the hardware design in uncertain conditions.
 
 # - title: Open Source Projects

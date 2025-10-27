@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Autonomous racing car
+description: ''
+img: assets/img/portfolio/self_driving_car/image1.png
+redirect: https://sites.google.com/view/autonomous-racing-car-mini/home
 importance: 3
 category: work
 ---
