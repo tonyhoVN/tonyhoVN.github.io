@@ -1,22 +1,20 @@
 ---
 layout: page
-title: Autonomous bin-picking system
+title: Autonomous Hovercraft
 description: ''
-img: assets/img/portfolio/bin_picking/system_design.png
-importance: 1
-category: work
-related_publications: einstein1956investigations, einstein1950meaning
+img: assets/img/portfolio/hovercraft/HoverCraft_2.jpg
+importance: 2
+category: ok
+redirect: https://sites.google.com/view/autonomous-hovercraft
+giscus_comments: false
 ---
 
-## Introduction
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+# Introduction
+A team project to develop an autonomous hovercraft controlled by an air-cushion lifting mechanism to effectively eliminate friction during movement. The hovercraft was navigated around the map  and stopped accurately in the targeted zones. I led a team of 5 people to finish the lap in the shortest amount of time.
 
-
-<div class="row">
+<div class="d-flex flex-column">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="https://drive.google.com/uc?export=view&id=1DBKWs_SZqpM-oTG50YO4Q87p7GSNYd7r" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -25,6 +23,7 @@ Make your photos 1/3, 2/3, or full width.
         {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 <div class="caption">
     Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
 </div>

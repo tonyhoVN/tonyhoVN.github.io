@@ -2,8 +2,8 @@
 layout: page
 title: AR air hocker
 description: ''
-img: assets/img/portfolio/air_hockey/image1.png
+img: assets/img/portfolio/air_hockey/demo.jpg
+importance: 4
+category: course
 redirect: https://sites.google.com/view/ar-airhockey/home
-importance: 3
-category: work
 ---

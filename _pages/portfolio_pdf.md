@@ -2,7 +2,7 @@
 layout: default
 title: Projects
 permalink: /portfolio/
-nav: true
+nav: false
 nav_order: 5
 ---
 

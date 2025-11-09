@@ -2,10 +2,10 @@
 layout: page
 title: Portfolio
 permalink: /Projects/
-description: A collection of my project projects.
+description: A collection of my projects.
 nav: true
 nav_order: 3
-display_categories: [work]
+display_categories: [research, course]
 horizontal: true
 ---
 
