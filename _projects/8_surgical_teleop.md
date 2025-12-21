@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adaptive model-mediated control for bilateral teleoperation 
+title: Adaptive control for teleoperation 
 description: ''
 img: assets/img/portfolio/teleoperation/teleop_experiment.png
 importance: 2

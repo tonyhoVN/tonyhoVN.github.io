@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous bin-picking system
+title: AI-driven bin-picking system
 description: ''
 img: assets/img/portfolio/bin_picking/system_design.png
 importance: 1
